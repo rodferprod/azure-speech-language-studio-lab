@@ -4,7 +4,7 @@ Este serviço permite a transcrição de fala em texto e a conversão de texto e
 
 ## Visão Geral do Azure AI Speech
 
-O Azure AI Speech é um serviço da Microsoft que possibilita a transcrição de conteúdo falado para texto escrito e vice-versa. Esta tecnologia pode ser utilizada para criar aplicativos inteligentes que processam linguagem falada em diversas situações. O exercício prático demonstra como utilizar este serviço através do portal Azure AI Foundry, que é a plataforma da Microsoft para criação de aplicações inteligentes[1].
+O Azure AI Speech é um serviço da Microsoft que possibilita a transcrição de conteúdo falado para texto escrito e vice-versa. Esta tecnologia pode ser utilizada para criar aplicativos inteligentes que processam linguagem falada em diversas situações. O exercício prático demonstra como utilizar este serviço através do portal Azure AI Foundry, que é a plataforma da Microsoft para criação de aplicações inteligentes.
 
 ## Criação de um Projeto no Azure AI Foundry
 
